@@ -1672,12 +1672,12 @@ PODS:
   - EXFont (8.4.0):
     - UMCore
     - UMFontInterface
-  - EXGL (9.2.0):
+  - EXGL (9.2.0-prebuild.0):
     - EXGL_CPP
     - UMCameraInterface
     - UMCore
     - UMFileSystemInterface
-  - EXGL_CPP (9.2.0):
+  - EXGL_CPP (9.2.0-prebuild.0):
     - React-jsi
   - EXGL_CPP_LEGACY (8.4.0):
     - EXGL_CPP_LEGACY/EXGLContext (= 8.4.0)
@@ -3776,8 +3776,8 @@ SPEC CHECKSUMS:
   EXFirebaseAnalytics: 8ae41a5530b7294c858bebd9fef3fbad778d6521
   EXFirebaseCore: e70a4f2ce5b69e3731933cc445653673f02cdcb0
   EXFont: bbfcd894ca1d731a5fc3f2f8b6480079340822b1
-  EXGL: 48a092e2ac0951824610acdedbaf020194d4b579
-  EXGL_CPP: 136ac9d6d96d93241770869a3b83a8df7297ae03
+  EXGL: f0ac8f6548ad236588ecfe64490170f289694870
+  EXGL_CPP: 56fedc655bea2b73a27b42c5ef3604cf025fe540
   EXGL_CPP_LEGACY: 53e09fa405bf392e3d24b3c4fd62080f340a7429
   EXGoogleSignIn: c41506338af7b0227ec0e29ea228f3e32df9aa83
   EXHaptics: 41c1de6e5baea7559b1a3c75b0ed685fc09ef7d4
